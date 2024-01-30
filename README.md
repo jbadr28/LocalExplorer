@@ -3,7 +3,7 @@
 ## Overview
 
 Weather Explorer is a user-friendly application developed using OpenAPI, Streamlit, OpenWeather API, and Google Maps API. This application allows users to explore weather conditions for a given location and provides personalized activity or place suggestions based on the weather and location data. Additionally, it utilizes the Google Maps API to display the best route to the recommended destination.
-
+[Link](https://jbe-local-explorer-gpt.streamlit.app/)
 ## Features
 
 - **Location-based Weather Information:** Retrieve real-time weather data for any location.
